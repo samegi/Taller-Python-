@@ -1,10 +1,10 @@
 # Taller de Python – Estructuras y Fundamentos
 
 **Autor:** Sara Mejia Giraldo  
-**Fecha:** 08-02-2026
+**Fecha:** 11-02-2026
 
 ## Descripción
-Repositorio con cuadernos de práctica de Python. Cada cuaderno incluye membrete, ejercicios resueltos, explicación de algoritmos, y conclusiones.
+Repositorio con cuadernos de práctica de Python. Cada cuaderno incluye membrete, ejercicios resueltos, comentarios, y conclusiones.
 
 ## Estructura
 - 01_cadenas: ejercicios y manipulación de strings
@@ -19,10 +19,10 @@ Repositorio con cuadernos de práctica de Python. Cada cuaderno incluye membrete
 - 10_bono: ejercicio integrador (opcional)
 
 ## Requisitos
-- Python 3.x
+- Python 3.13.7
 - Jupyter Notebook (VSCode)
 
 ## Instrucciones de ejecución
 1. Abrir el cuaderno correspondiente al tema.
 2. Ejecutar las celdas en orden.
-3. Revisar conclusiones al final.
+3. Revisar conclusion al final.
