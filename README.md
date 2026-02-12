@@ -1,6 +1,7 @@
 # Taller de Python – Estructuras y Fundamentos
 
-**Autor:** Sara Mejia Giraldo  
+**Autor:** Sara Mejia Giraldo
+**ID:** 20533824  
 **Fecha:** 11-02-2026
 
 ## Descripción
